@@ -1,3 +1,6 @@
 class Person
-  #your code here
+
+
+  def initialization(attributes)
+    attributes.each {|key, value| (("#{key}"), value)
 end
